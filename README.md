@@ -3,6 +3,7 @@
 A pcb badge with nfc and leds. I put my website for QR code.
 
 ## PCB
+<img width="1695" height="1002" alt="image" src="https://github.com/user-attachments/assets/5c721ed6-c9d6-4afe-912f-af344d039122" />
 
 <img width="2475" height="1545" alt="Screenshot 2026-07-02 203342" src="https://github.com/user-attachments/assets/48579137-5d0f-481f-92fd-9c8fe91a7a9b" />
 <img width="2352" height="1665" alt="Screenshot 2026-07-02 203349" src="https://github.com/user-attachments/assets/be1a7411-7fa0-4e27-8db5-4c349baf1365" />
